@@ -12,7 +12,7 @@ NFTs as a license for software distribution. The application can be updated by t
 
 ## Sample Contract
 
-```sol
+```solidity
 import "./ERC721Versioned.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
